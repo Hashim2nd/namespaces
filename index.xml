@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<class xmlns:a="abc.com">
+
+<student>
+<a:name>ALI</a:name>
+<a:email>ali@gmail.com</a:email>
+<a:address>123/ karachi</a:address>
+</student>
+
+<student>
+<name>ALI</name>
+<email>aLI@gmail.com</email>
+<address>123/ karachi</address>
+</student>
+
+
+<student>
+<name>ALI</name>
+<email>ali@gmail.com</email>
+<address>123/ karachi</address>
+</student>
+
+<student>
+<name>ALI</name>
+<email>ali@gmail.com</email>
+<address>123/ karachi</address>
+</student>
+</class>
